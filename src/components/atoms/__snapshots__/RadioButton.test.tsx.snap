@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioButtonコンポーネント ラジオボタンが表示される 1`] = `
+<div
+  class="Radio red"
+>
+  <input
+    id="radioId"
+    name="radioName"
+    type="radio"
+  />
+  <label
+    for="radioId"
+  >
+    テスト用ラベル
+  </label>
+</div>
+`;

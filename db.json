@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1680322257789,
+      "name": "食材を買う",
+      "isCompleted": true
+    },
+    {
+      "id": 1680322263579,
+      "name": "シャンプーを買う",
+      "isCompleted": false
+    },
+    {
+      "id": 1680328779666,
+      "name": "保険更新の手続きをする",
+      "isCompleted": false
+    },
+    {
+      "id": 1680329733349,
+      "name": "歯医者の帰りにジーベンに寄ってケーキを５個を買って帰る",
+      "isCompleted": false
+    }
+  ]
+}

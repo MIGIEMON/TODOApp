@@ -1,0 +1,20 @@
+header {
+    background-color: #2b2b2b;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    color: #fff;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #fff;
+    width: 600px;
+    height: 95px;
+}
+
+h1 {
+    margin: 10px;
+    letter-spacing: 0.3em
+}
